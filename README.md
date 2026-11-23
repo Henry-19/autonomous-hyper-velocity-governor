@@ -1,6 +1,16 @@
 # Autonomous Hyper-Velocity Governor
 
+[![GitHub Stars](https://img.shields.io/github/stars/Henry-19/autonomous-hyper-velocity-governor?style=for-the-badge&logo=github)](https://github.com/Henry-19/autonomous-hyper-velocity-governor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-0a0a0a.svg?style=for-the-badge)](https://skills.sh)
+
 A production-grade AI Agent Skill synthesized via **Meta-Skill Synthesizer** to eliminate permission-prompt friction (`Allow read access to this path?`, `Allow write_file?`), enforce parallel multi-tool batching, integrate Rust-powered developer CLIs (`rg`, `fd`, `uv`, `typst`, `cargo`), and synchronize global Antigravity skills automatically.
+
+## ⚡ Quick Install
+
+```bash
+npx skills add Henry-19/autonomous-hyper-velocity-governor -g
+```
 
 ---
 
